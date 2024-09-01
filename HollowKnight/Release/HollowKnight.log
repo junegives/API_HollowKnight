@@ -1,0 +1,1029 @@
+﻿  Arena.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(31,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(31,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(31,28): message : 인수 목록 '(const wchar_t [14], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(37,14): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(37,28): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(37,14): message : 인수 목록 '(const wchar_t [12], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(57,33): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(65,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(65,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(65,29): message : 인수 목록 '(const wchar_t [19], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(76,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [20]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(76,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(76,29): message : 인수 목록 '(const wchar_t [20], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(96,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(96,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(109,35): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(118,27): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(118,39): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(118,27): message : 인수 목록 '(const wchar_t [16], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Arena.cpp(120,33): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BmpMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  Boomerang.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Boomerang.cpp(72,27): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [26]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Boomerang.cpp(72,39): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Boomerang.cpp(72,27): message : 인수 목록 '(const wchar_t [26], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Boomerang.cpp(94,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Boomerang.cpp(93,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Boss.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CameraMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CameraMgr.cpp(80,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CameraMgr.cpp(84,60): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CrawlBug.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(35,17): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(35,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(69,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(68,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(145,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(145,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(145,16): message : 인수 목록 '(const wchar_t [9], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(164,30): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(164,42): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrawlBug.cpp(164,30): message : 인수 목록 '(const wchar_t [15], EChannelID, float)'을(를) 일치시키는 동안
+  Crawlid.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(48,17): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(48,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(127,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(126,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(159,31): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(159,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(160,23): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(160,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(249,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(249,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(249,16): message : 인수 목록 '(const wchar_t [9], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(269,30): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(269,42): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Crawlid.cpp(269,30): message : 인수 목록 '(const wchar_t [15], EChannelID, float)'을(를) 일치시키는 동안
+  CrossRoad.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrossRoad.cpp(34,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [20]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrossRoad.cpp(34,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrossRoad.cpp(34,28): message : 인수 목록 '(const wchar_t [20], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrossRoad.cpp(40,14): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrossRoad.cpp(40,28): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrossRoad.cpp(40,14): message : 인수 목록 '(const wchar_t [16], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrossRoad.cpp(82,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CrossRoad.cpp(82,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DashBug.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(48,17): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(48,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(125,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(124,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(153,31): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(153,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(154,23): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(154,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(165,31): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(165,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(166,23): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(166,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(254,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(254,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(254,16): message : 인수 목록 '(const wchar_t [9], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(275,30): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(275,42): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\DashBug.cpp(275,30): message : 인수 목록 '(const wchar_t [15], EChannelID, float)'을(를) 일치시키는 동안
+  Dirtmouth.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Dirtmouth.cpp(28,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Dirtmouth.cpp(28,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Dirtmouth.cpp(28,28): message : 인수 목록 '(const wchar_t [18], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Dirtmouth.cpp(48,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Dirtmouth.cpp(48,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Effect.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Effect.cpp(35,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Effect.cpp(34,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FireBall.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(35,15): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(35,29): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(35,15): message : 인수 목록 '(const wchar_t [17], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(65,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(65,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(65,16): message : 인수 목록 '(const wchar_t [17], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(72,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(72,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(72,16): message : 인수 목록 '(const wchar_t [17], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(101,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FireBall.cpp(100,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Geo.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(26,18): error C2440: '=': 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(26,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(32,18): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(32,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(38,18): error C2440: '=': 'const wchar_t [10]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(38,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(66,15): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [7]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(66,29): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(66,15): message : 인수 목록 '(const wchar_t [7], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(124,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(123,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(147,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(147,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Geo.cpp(147,28): message : 인수 목록 '(const wchar_t [19], EChannelID, float)'을(를) 일치시키는 동안
+  Image.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Image.cpp(61,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Image.cpp(60,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Inventory.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Item.cpp(33,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Item.cpp(32,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MantisYouth.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(57,17): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(57,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(135,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(134,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(250,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [24]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(250,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(250,29): message : 인수 목록 '(const wchar_t [24], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(282,18): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(282,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(295,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [23]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(295,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(295,29): message : 인수 목록 '(const wchar_t [23], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(296,18): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(296,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(307,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [21]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(307,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(307,29): message : 인수 목록 '(const wchar_t [21], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(309,31): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(309,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(310,23): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(310,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(323,31): error C2440: '=': 'const wchar_t [20]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(323,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(324,23): error C2440: '=': 'const wchar_t [20]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(324,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(337,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [21]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(337,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(337,29): message : 인수 목록 '(const wchar_t [21], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(338,31): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(338,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(339,23): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(339,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(353,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(353,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(353,29): message : 인수 목록 '(const wchar_t [18], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(355,31): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(355,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(356,23): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(356,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(428,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(428,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(428,16): message : 인수 목록 '(const wchar_t [9], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(449,30): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(449,42): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisYouth.cpp(449,30): message : 인수 목록 '(const wchar_t [15], EChannelID, float)'을(를) 일치시키는 동안
+  Markoth.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(66,17): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(66,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(87,18): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(87,32): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(87,18): message : 인수 목록 '(const wchar_t [11], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(96,13): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(96,27): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(96,13): message : 인수 목록 '(const wchar_t [11], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(203,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(202,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(247,18): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(247,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(258,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(258,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(258,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(264,18): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(264,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(275,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(275,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(275,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(280,18): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(280,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(291,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(291,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(291,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(296,18): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(296,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(306,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(306,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(306,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(311,18): error C2440: '=': 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(311,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(321,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [23]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(321,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(321,29): message : 인수 목록 '(const wchar_t [23], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(323,18): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(323,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(401,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(403,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(461,10): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [10]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(461,24): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(461,10): message : 인수 목록 '(const wchar_t [10], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(557,15): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(557,29): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(557,15): message : 인수 목록 '(const wchar_t [9], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(568,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [22]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(568,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Markoth.cpp(568,29): message : 인수 목록 '(const wchar_t [22], EChannelID, float)'을(를) 일치시키는 동안
+  Shield.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Shield.cpp(72,27): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [26]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Shield.cpp(72,39): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Shield.cpp(72,27): message : 인수 목록 '(const wchar_t [26], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Shield.cpp(94,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Shield.cpp(93,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StoreBoard.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(41,14): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(41,28): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(41,14): message : 인수 목록 '(const wchar_t [13], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(52,15): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(52,29): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(52,15): message : 인수 목록 '(const wchar_t [14], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(63,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(63,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(63,16): message : 인수 목록 '(const wchar_t [11], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(74,11): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(74,25): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(74,11): message : 인수 목록 '(const wchar_t [11], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(85,13): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(85,27): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(85,13): message : 인수 목록 '(const wchar_t [9], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(99,18): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [4]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(99,32): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(99,18): message : 인수 목록 '(const wchar_t [4], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(106,18): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [10]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(106,32): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(106,18): message : 인수 목록 '(const wchar_t [10], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(122,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(125,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(125,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(125,16): message : 인수 목록 '(const wchar_t [13], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(135,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(138,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(138,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(138,16): message : 인수 목록 '(const wchar_t [14], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(211,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\StoreBoard.cpp(210,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  Sword.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Sword.cpp(49,27): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [26]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Sword.cpp(49,39): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Sword.cpp(49,27): message : 인수 목록 '(const wchar_t [26], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Sword.cpp(88,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Sword.cpp(87,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Title.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Title.cpp(22,27): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Title.cpp(22,39): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Title.cpp(22,27): message : 인수 목록 '(const wchar_t [18], EChannelID, float)'을(를) 일치시키는 동안
+  UIGeo.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIGeo.cpp(23,17): error C2440: '=': 'const wchar_t [6]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIGeo.cpp(23,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIGeo.cpp(46,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIGeo.cpp(45,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HitBox.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HollowKnight.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(67,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(68,18): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(132,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(133,18): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(199,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(200,18): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(266,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(267,18): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(300,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(301,18): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(348,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(349,18): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(416,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(417,18): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(459,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\CollisionMgr.cpp(460,18): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Creature.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HP.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(21,17): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(21,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(53,18): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(53,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(65,18): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(65,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(81,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(80,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(107,16): error C2440: '=': 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(107,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(123,16): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\HP.cpp(123,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  FrontBG.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FrontBG.cpp(29,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\FrontBG.cpp(28,13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainGame.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LineMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MantisLord.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(95,17): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(95,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(268,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(267,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(307,19): error C2440: '=': 'const wchar_t [8]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(307,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(320,19): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(320,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(333,18): error C2440: '=': 'const wchar_t [10]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(333,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(347,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(347,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(347,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(348,18): error C2440: '=': 'const wchar_t [10]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(348,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(367,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(367,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(367,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(373,19): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(373,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(378,19): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(378,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(391,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [21]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(391,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(391,29): message : 인수 목록 '(const wchar_t [21], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(394,19): error C2440: '=': 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(394,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(398,19): error C2440: '=': 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(398,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(414,19): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(414,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(418,19): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(418,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(431,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [23]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(431,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(431,29): message : 인수 목록 '(const wchar_t [23], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(433,36): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(436,18): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(436,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(448,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [22]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(448,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(448,29): message : 인수 목록 '(const wchar_t [22], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(450,18): error C2440: '=': 'const wchar_t [10]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(450,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(461,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [28]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(461,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(461,29): message : 인수 목록 '(const wchar_t [28], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(462,18): error C2440: '=': 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(462,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(473,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(473,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(473,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(479,19): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(479,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(484,19): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(484,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(497,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(497,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(497,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(503,19): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(503,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(508,19): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(508,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(523,19): error C2440: '=': 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(523,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(527,19): error C2440: '=': 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(527,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(539,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(539,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(539,29): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(542,19): error C2440: '=': 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(542,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(546,19): error C2440: '=': 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(546,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(558,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [22]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(558,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(558,29): message : 인수 목록 '(const wchar_t [22], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(561,19): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(561,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(565,19): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(565,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(577,18): error C2440: '=': 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(577,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(588,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [23]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(588,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(588,29): message : 인수 목록 '(const wchar_t [23], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(589,18): error C2440: '=': 'const wchar_t [8]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(589,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(711,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(711,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(711,28): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(755,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [27]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(755,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(755,28): message : 인수 목록 '(const wchar_t [27], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(822,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(822,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(822,29): message : 인수 목록 '(const wchar_t [18], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(831,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(831,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(831,16): message : 인수 목록 '(const wchar_t [14], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(875,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(875,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(875,29): message : 인수 목록 '(const wchar_t [18], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(883,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(883,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(883,16): message : 인수 목록 '(const wchar_t [14], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1058,15): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1058,29): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1058,15): message : 인수 목록 '(const wchar_t [9], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1072,30): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [22]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1072,42): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1072,30): message : 인수 목록 '(const wchar_t [22], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1077,30): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [22]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1077,42): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1077,30): message : 인수 목록 '(const wchar_t [22], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1082,30): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [22]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1082,42): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1082,30): message : 인수 목록 '(const wchar_t [22], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1087,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1087,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisLord.cpp(1087,29): message : 인수 목록 '(const wchar_t [15], EChannelID, float)'을(를) 일치시키는 동안
+  MantisTown.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(36,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(36,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(36,28): message : 인수 목록 '(const wchar_t [18], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(42,14): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(42,28): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(42,14): message : 인수 목록 '(const wchar_t [17], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(72,12): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [5]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(72,26): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(72,12): message : 인수 목록 '(const wchar_t [5], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(79,13): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [5]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(79,27): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(79,13): message : 인수 목록 '(const wchar_t [5], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(130,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(130,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(130,29): message : 인수 목록 '(const wchar_t [19], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(145,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [25]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(145,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(145,29): message : 인수 목록 '(const wchar_t [25], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(201,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [20]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(201,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(201,29): message : 인수 목록 '(const wchar_t [20], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(214,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [25]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(214,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(214,29): message : 인수 목록 '(const wchar_t [25], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(242,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(242,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(268,27): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(268,39): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MantisTown.cpp(268,27): message : 인수 목록 '(const wchar_t [16], EChannelID, float)'을(를) 일치시키는 동안
+  Monster.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyBitmap.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  Object.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OrangeFly.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pch.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(89,17): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(89,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(155,17): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(155,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(155,17): message : 인수 목록 '(const wchar_t [12], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(336,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(335,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(511,18): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(511,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(513,18): error C2440: '=': 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(513,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(518,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(518,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(518,28): message : 인수 목록 '(const wchar_t [17], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(556,18): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(556,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(558,18): error C2440: '=': 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(558,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(563,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(563,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(563,28): message : 인수 목록 '(const wchar_t [17], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(581,32): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(581,32): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(582,24): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(582,24): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(587,32): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(587,32): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(588,24): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(588,24): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(615,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(615,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(615,29): message : 인수 목록 '(const wchar_t [17], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(617,31): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(617,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(618,23): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(618,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(631,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(631,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(631,29): message : 인수 목록 '(const wchar_t [17], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(633,31): error C2440: '=': 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(633,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(634,23): error C2440: '=': 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(634,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(648,31): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(648,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(649,23): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(649,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(662,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(662,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(662,29): message : 인수 목록 '(const wchar_t [17], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(664,31): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(664,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(665,23): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(665,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(695,31): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(695,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(696,23): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(696,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(710,31): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(710,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(711,23): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(711,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(724,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(724,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(724,29): message : 인수 목록 '(const wchar_t [19], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(731,19): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(731,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(734,13): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(734,27): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(734,13): message : 인수 목록 '(const wchar_t [14], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(739,19): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(739,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(742,13): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(742,27): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(742,13): message : 인수 목록 '(const wchar_t [14], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(760,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(760,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(760,29): message : 인수 목록 '(const wchar_t [19], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(762,31): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(762,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(763,23): error C2440: '=': 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(763,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(769,12): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(769,26): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(769,12): message : 인수 목록 '(const wchar_t [14], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(785,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(785,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(785,29): message : 인수 목록 '(const wchar_t [19], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(787,31): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(787,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(788,23): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(788,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(794,12): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [16]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(794,26): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(794,12): message : 인수 목록 '(const wchar_t [16], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(811,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [21]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(811,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(811,29): message : 인수 목록 '(const wchar_t [21], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(817,19): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(817,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(818,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(818,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(818,16): message : 인수 목록 '(const wchar_t [12], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(823,19): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(823,19): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(824,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(824,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(824,16): message : 인수 목록 '(const wchar_t [12], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(845,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(845,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(845,29): message : 인수 목록 '(const wchar_t [19], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(847,31): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(847,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(848,23): error C2440: '=': 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(848,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(853,15): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [9]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(853,29): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(853,15): message : 인수 목록 '(const wchar_t [9], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(868,18): error C2440: '=': 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(868,18): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(873,15): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(873,29): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(873,15): message : 인수 목록 '(const wchar_t [12], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(897,31): error C2440: '=': 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(897,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(898,23): error C2440: '=': 'const wchar_t [19]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(898,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(910,31): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(910,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(911,23): error C2440: '=': 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(911,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(928,31): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(928,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(929,23): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(929,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(945,31): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(945,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(946,23): error C2440: '=': 'const wchar_t [17]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(946,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(962,31): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(962,31): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(963,23): error C2440: '=': 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(963,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(1100,29): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [22]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(1100,41): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(1100,29): message : 인수 목록 '(const wchar_t [22], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(1116,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.cpp(1255,25): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  컴파일하고 있습니다...
+  Projectile.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Scene.cpp(96,19): error C2440: '초기화 중': 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'에서 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Ty=CObject *
+          ]
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Scene.cpp(96,19): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  SceneMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Line.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Geometry.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ScrollMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Skill.cpp(92,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Skill.cpp(91,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SkillMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Soul.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(24,17): error C2440: '=': 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(24,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(70,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(69,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(99,16): error C2440: '=': 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(99,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(123,16): error C2440: '=': 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(123,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(138,16): error C2440: '=': 'const wchar_t [15]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Soul.cpp(138,16): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  SoundMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Store.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(29,28): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [14]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(29,40): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(29,28): message : 인수 목록 '(const wchar_t [14], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(35,14): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(35,28): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(35,14): message : 인수 목록 '(const wchar_t [12], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(55,16): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [11]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(55,30): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(55,16): message : 인수 목록 '(const wchar_t [11], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(127,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(127,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(142,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Store.cpp(141,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Obtain.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Obtain.cpp(24,27): error C2664: 'void CSoundMgr::PlaySoundW(TCHAR *,EChannelID,float)': 인수 1을(를) 'const wchar_t [18]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Obtain.cpp(24,39): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\SoundMgr.h(33,7): message : 'CSoundMgr::PlaySoundW' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Obtain.cpp(24,27): message : 인수 목록 '(const wchar_t [18], EChannelID, float)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Obtain.cpp(27,13): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [13]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Obtain.cpp(27,27): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Obtain.cpp(27,13): message : 인수 목록 '(const wchar_t [13], int, int)'을(를) 일치시키는 동안
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Obtain.cpp(50,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Obtain.cpp(50,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(67,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\ScrollMgr.h(73,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TileMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UI.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIInven.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIInven.cpp(25,17): error C2440: '=': 'const wchar_t [12]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIInven.cpp(25,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIInven.cpp(48,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIInven.cpp(47,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIItem.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIItem.cpp(26,17): error C2440: '=': 'const wchar_t [6]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIItem.cpp(26,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIItem.cpp(47,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIItem.cpp(46,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIMgr.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(174,7): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Player.h(181,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIMgr.cpp(144,20): error C2664: 'void CObject::setFrameKey(TCHAR *,int,int)': 인수 1을(를) 'const wchar_t [6]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIMgr.cpp(144,34): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Object.h(59,7): message : 'CObject::setFrameKey' 선언을 참조하십시오.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\UIMgr.cpp(144,20): message : 인수 목록 '(const wchar_t [6], int, int)'을(를) 일치시키는 동안
+  Wall.cpp
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(100,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Types.h(101,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\MyBitmap.h(1,1): warning C4828: 파일에 0x2b5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Wall.cpp(51,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\쥬신\프로젝트\API\HollowKnight\HollowKnight\Wall.cpp(50,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
